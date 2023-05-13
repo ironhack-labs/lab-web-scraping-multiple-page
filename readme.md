@@ -2,7 +2,7 @@
 
 # Lab | Web Scraping Multiple Pages
 
-#### Business goal:
+##### Business goal:
 
 - Check the `case_study_gnod.md` file.
 - Make sure you've understood the big picture of your project:
